@@ -23,3 +23,5 @@
 - [ ] Strings
 - [ ] Hashmaps
 - [ ] Conclusion
+
+source: https://github.com/FrancescoXX/rust-crush-bootcamp
