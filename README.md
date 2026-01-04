@@ -1,7 +1,7 @@
 # Learn the Rust Programming Language - 1-hour Bootcamp for beginners - Francesco Ciulla
 
 - [x] Course Introduction, Rust Installation 
-- [ ] Rust Hello World without Cargo, with Cargo, cargo new, cargo init, crates.io, comments
+- [x] Rust Hello World without Cargo, with Cargo, cargo new, cargo init, crates.io, comments
 - [ ] Variables
 - [ ] Constants
 - [ ] Shadowing
