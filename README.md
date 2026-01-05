@@ -2,9 +2,9 @@
 
 - [x] Course Introduction, Rust Installation 
 - [x] Rust Hello World without Cargo, with Cargo, cargo new, cargo init, crates.io, comments
-- [ ] Variables
-- [ ] Constants
-- [ ] Shadowing
+- [x] Variables
+- [x] Constants
+- [x] Shadowing
 - [ ] Primitive Scalar Types: Integers, Floats, Booleans, Char
 - [ ] Arrays
 - [ ] Tuples
