@@ -5,10 +5,10 @@
 - [x] Variables
 - [x] Constants
 - [x] Shadowing
-- [ ] Primitive Scalar Types: Integers, Floats, Booleans, Char
-- [ ] Arrays
-- [ ] Tuples
-- [ ] Functions
+- [x] Primitive Scalar Types: Integers, Floats, Booleans, Char
+- [x] Arrays
+- [x] Tuples
+- [x] Functions
 - [ ] Ownership, The Stack and the Heap
 - [ ] Borrowing and References
 - [ ]  If Expressions
