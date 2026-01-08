@@ -11,8 +11,8 @@ fn main() {
     
     let a: [i32; 5] = [1, 2, 3, 4, 5];
 
-    // Initialize an array to contian the same value `[value: length]`.
-    let b = [3, 5]; // Same as `let b = [3, 3, 3, 3, 3];`
+    // Initialize an array to contian the same value `[value; length]`.
+    let b = [3; 5]; // Same as `let b = [3, 3, 3, 3, 3];`
 
     // We access array elements by index (starting from 0).
     let first = a[0];
