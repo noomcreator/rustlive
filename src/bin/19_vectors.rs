@@ -43,4 +43,21 @@ fn main() {
     if v.get(100) == None {
         println!("Index 100 is safely handled as None.");
     }
+    // let_wont_compile = &v[100]; // This would compile, but panic!
+
+    println!("\n--- 3. Iterating over a vector ---");
+    println!("Iterating over v:");
+    for i in &v { // `&v` gives immutable references
+        println!("Got value: {}", i);
+    }
+
+    // We can also *mutably* iterate to change values
+    let mut v3 = vec![100, 200, 300];
+
+    println!("\nIterating mutably over v3:");
+    for i in &mut v3 { // `&mut` gives mutable references
+        *i += 50; // `*` is the "dereference" operator to get the value
+    }
+    println!("v3 after mutation: {:?}", v3);
+    
 }
