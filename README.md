@@ -9,19 +9,19 @@
 - [x] Arrays
 - [x] Tuples
 - [x] Functions
-- [ ] Ownership, The Stack and the Heap
-- [ ] Borrowing and References
-- [ ]  If Expressions
-- [ ] loop loops
-- [ ] while loops
-- [ ] for loops
-- [ ] Structs
-- [ ] Enums
-- [ ] Match
-- [ ] Error Handling
-- [ ] Vectors
-- [ ] Strings
-- [ ] Hashmaps
-- [ ] Conclusion
+- [x] Ownership, The Stack and the Heap
+- [x] Borrowing and References
+- [x]  If Expressions
+- [x] loop loops
+- [x] while loops
+- [x] for loops
+- [x] Structs
+- [x] Enums
+- [x] Match
+- [x] Error Handling
+- [x] Vectors
+- [x] Strings
+- [x] Hashmaps
+- [x] Conclusion
 
 source: https://github.com/FrancescoXX/rust-crush-bootcamp
